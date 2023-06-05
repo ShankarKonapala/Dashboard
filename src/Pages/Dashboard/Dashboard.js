@@ -64,7 +64,7 @@ function Illustration() {
       </div>
 
       <div className="illustrative-link">
-        <a target="_blank" rel="nofollow" href="https://undraw.co/"> Browse Illustrations on unDraw → </a>
+        <a target="blank" rel="nofollow" href="https://undraw.co/"> Browse Illustrations on unDraw → </a>
       </div>
 
      </div>
