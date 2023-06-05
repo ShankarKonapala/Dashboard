@@ -1,6 +1,5 @@
 import React from "react";
-import { useState } from "react";
-import {ProSidebarProvider, Sidebar, Menu, MenuItem, SubMenu, useProSidebar } from "react-pro-sidebar";
+import {ProSidebarProvider, Sidebar, Menu, MenuItem, SubMenu} from "react-pro-sidebar";
 import { Link } from "react-router-dom";
 import "./Header.css"
 

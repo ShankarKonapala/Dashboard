@@ -1,5 +1,4 @@
 import React from 'react'
-import data from './Data'
 import './Dashboard.css'
 
 function Datacard(props) {
